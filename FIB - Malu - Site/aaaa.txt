@@ -1,0 +1,4 @@
+<frameset rows="50%,50%">
+    <frame src="footer.php" name="teste"></frame>
+    
+  </frameset>

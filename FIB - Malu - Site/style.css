@@ -1,0 +1,47 @@
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(OpenSans-Light.ttf);
+}
+.footer {
+    background-color:  rgb(9, 167, 230);
+    border-top: 3px solid  rgb(9, 167, 230);
+    color:  rgb(9, 167, 230);
+}
+
+.navbar {
+    background-color: rgb(9, 167, 230);
+    border-top: 3px solid rgb(9, 167, 230);
+    color: rgb(9, 167, 230);
+}
+
+.navbar .navbar-fluid {
+    padding: 15px 70px;
+    
+}
+.navbar .navbar-fluid .navbar-text {
+    text-align: center;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+.footer .footer-fluid {
+    padding: 15px 20px;
+    
+}
+
+.footer .footer-fluid .footer-text {
+    text-align: center;
+    
+    color: #616161;
+}
+.meio {
+    background-image: url(../fib/img/teste.jpg);
+
+}
+.fundo{
+    background-image: url(../fib/img/teste.jpg);
+    font-family: "Roboto", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
