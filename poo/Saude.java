@@ -22,3 +22,7 @@ public class Saude {
         return peso;
     }
 }
+//                                 Peso, Altura
+//         Saude saude = new Saude(80, 1.80);
+//         System.out.println(saude.calcularIMC());
+
